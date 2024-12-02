@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Poozy</h1>
-<h3 align="center">Im a Student</h3>
+<a href="#" target="_blank">
+  <img src="svg/vanduc.svg" width="1200" alt="vanduc" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2impoozy&label=Profile%20views&color=0e75b6&style=flat" alt="2impoozy" /> </p>
 
